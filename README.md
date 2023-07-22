@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE:
+
 <!DOCTYPE html>
 <head>
 <title>SEC SLOT TIMETABLE</title>
@@ -122,5 +123,5 @@ Execute the program
 
 
 # OUPUT
-### timetable
-![timetable(2)](timetable(2).png)
+### timetable :
+![timetable2](timetable2.png)
